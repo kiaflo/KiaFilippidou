@@ -1,14 +1,9 @@
-# Κια Φιλιππίδου - Τελικό οπτικό site
+# Κια Φιλιππίδου - Φωτεινό λογοτεχνικό site
 
-Ανέβασε στο GitHub Pages ΟΛΑ τα αρχεία αυτού του φακέλου:
-- index.html
-- author.html
-- stories.html
-- story-1.html
-- videos.html
-- books.html
-- blog.html
-- contact.html
-- assets/
+Ανέβασε όλα τα αρχεία και τον φάκελο assets στο GitHub Pages repository.
 
-ΜΗΝ ανεβάσεις τον ίδιο τον φάκελο. Μπες μέσα στον φάκελο και ανέβασε τα περιεχόμενα.
+1. Κάνε Extract το ZIP.
+2. Μπες μέσα στον φάκελο kia_bougainvillea_complete.
+3. Στο GitHub πάτα Add file -> Upload files.
+4. Ανέβασε όλα τα αρχεία και τον φάκελο assets.
+5. Πάτα Commit changes.
