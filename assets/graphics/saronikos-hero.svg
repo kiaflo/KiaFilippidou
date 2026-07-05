@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 640" preserveAspectRatio="xMidYMid slice">
+<defs><linearGradient id="sky" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#f8f4ec"/><stop offset=".42" stop-color="#dbe4e9"/><stop offset="1" stop-color="#0d3557"/></linearGradient><filter id="rough"><feTurbulence type="fractalNoise" baseFrequency=".018" numOctaves="3" seed="6"/><feDisplacementMap in="SourceGraphic" scale="10"/></filter></defs>
+<rect width="1600" height="640" fill="#fffdf8"/>
+<g filter="url(#rough)"><path d="M455 55C635 126 755 127 900 94c176-40 365-40 586 30v345H455z" fill="url(#sky)" opacity=".95"/><path d="M570 320c138-55 248-45 380-20 175 32 320-2 520-34v230H550z" fill="#0d3557" opacity=".88"/><path d="M690 245c95-55 190-90 335-70 135 20 270 0 420-30v120c-165 20-295 23-445-4-118-22-205 0-310 60z" fill="#122c45" opacity=".76"/></g>
+<g opacity=".5" stroke="#fffdf8" stroke-width="4" fill="none"><path d="M590 440c112-50 224-55 330-12 105 42 210 40 330 0"/><path d="M560 472c115-35 220-35 330-8 122 30 240 31 386 0"/></g>
+<g transform="translate(1255 348)" fill="none" stroke="#c59a45" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"><rect x="18" y="42" width="178" height="32" rx="4"/><rect x="42" y="4" width="178" height="32" rx="4"/><path d="M42 58h130M67 20h130"/><path d="M64 126c38-25 82-30 130-14 45-23 90-28 136-8v80c-48-20-92-15-136 12-45-22-88-17-130 12z"/><path d="M194 112v84"/></g>
+<path d="M0 0h520c-70 100-82 240-10 385H0z" fill="#fffdf8" opacity=".94"/><path d="M0 640h1600v-42c-350 30-693 16-1030 8-242-5-416 4-570 34z" fill="#fffdf8"/>
+</svg>
