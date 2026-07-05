@@ -1,8 +1,14 @@
-# Κια Φιλιππίδου - τελικό site
+# Κια Φιλιππίδου - Τελικό οπτικό site
 
-Ανεβάστε ΟΛΑ τα περιεχόμενα αυτού του φακέλου στο root του GitHub repository:
+Ανέβασε στο GitHub Pages ΟΛΑ τα αρχεία αυτού του φακέλου:
 - index.html
-- style.css
-- script.js
-- όλα τα .html
+- author.html
+- stories.html
+- story-1.html
+- videos.html
+- books.html
+- blog.html
+- contact.html
 - assets/
+
+ΜΗΝ ανεβάσεις τον ίδιο τον φάκελο. Μπες μέσα στον φάκελο και ανέβασε τα περιεχόμενα.
