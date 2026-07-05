@@ -1,1 +1,1 @@
-document.querySelector('.menu')?.addEventListener('click',()=>document.querySelector('nav').classList.toggle('open'));
+document.addEventListener('DOMContentLoaded',()=>{document.querySelectorAll('a[href="#"]').forEach(a=>a.addEventListener('click',e=>e.preventDefault()))})
